@@ -8,3 +8,13 @@ C:\Users\Jordan\source\repos\NewCalculator\NewCalculator\obj\Debug\NewCalculator
 C:\Users\Jordan\source\repos\NewCalculator\NewCalculator\obj\Debug\NewCalculator.csproj.CoreCompileInputs.cache
 C:\Users\Jordan\source\repos\NewCalculator\NewCalculator\obj\Debug\NewCalculator.exe
 C:\Users\Jordan\source\repos\NewCalculator\NewCalculator\obj\Debug\NewCalculator.pdb
+C:\Users\Jordan\source\repos\Calculator\NewCalculator\bin\Debug\NewCalculator.exe.config
+C:\Users\Jordan\source\repos\Calculator\NewCalculator\bin\Debug\NewCalculator.exe
+C:\Users\Jordan\source\repos\Calculator\NewCalculator\bin\Debug\NewCalculator.pdb
+C:\Users\Jordan\source\repos\Calculator\NewCalculator\obj\Debug\NewCalculator.csprojAssemblyReference.cache
+C:\Users\Jordan\source\repos\Calculator\NewCalculator\obj\Debug\NewCalculator.Form1.resources
+C:\Users\Jordan\source\repos\Calculator\NewCalculator\obj\Debug\NewCalculator.Properties.Resources.resources
+C:\Users\Jordan\source\repos\Calculator\NewCalculator\obj\Debug\NewCalculator.csproj.GenerateResource.cache
+C:\Users\Jordan\source\repos\Calculator\NewCalculator\obj\Debug\NewCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Jordan\source\repos\Calculator\NewCalculator\obj\Debug\NewCalculator.exe
+C:\Users\Jordan\source\repos\Calculator\NewCalculator\obj\Debug\NewCalculator.pdb

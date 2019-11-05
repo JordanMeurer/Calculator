@@ -33,7 +33,7 @@ namespace NewCalculator
                 else if(input.Text == ".")
                 {
                     decimalCheck = true;
-                    textBox1.Text = (textBox1 + input.Text);
+                    textBox1.Text += input.Text;
                 }
                 else
                     textBox1.Text = (textBox1.Text + input.Text);
@@ -58,9 +58,12 @@ namespace NewCalculator
             Op = temp.Text;
             Value = Double.Parse(textBox1.Text);
             textBox1.Text = "0";
+            textBox2.Text = Value + " " + Op;
+            decimalCheck = false;
         }
         private void Calculate(object sender, EventArgs e)
         {
+            textBox2.Text += (" " + textBox1.Text);
             switch (Op)
             {
                 case "+":
@@ -80,6 +83,8 @@ namespace NewCalculator
                     break;
             }
             Op = "";
+            textBox2.Text += (" = " + textBox1.Text);
+            textBox1.Text = "0";
         }
     }
 }
